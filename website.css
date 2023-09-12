@@ -1,0 +1,68 @@
+body{
+    font-family: courier, sans-serif;
+    background-color: azure;
+}
+
+h1{ 
+    text-align: center;
+}
+.card-group{    
+position: absolute;
+bottom: 0;
+left: 0;
+gap: 10px;
+height: 20%;
+border-width: 10px; 
+}
+
+.bio-card{
+position: absolute;
+border-style: solid;
+border-width: 5px 5px 5px 5px;
+border-color: black;
+height: 300px;
+width: 300px;
+margin-left: 30px;
+margin-top: 30px;
+margin-bottom: 50px;
+align-content: left;
+overflow: auto;
+}
+
+.video-card{
+position: absolute;
+margin-top: 30px;
+height: 300px;
+width: 300px;
+right: 800px;
+left: 600px;
+align-content: center;
+}
+
+#carousel{
+position: absolute;
+height: 500px;
+width: 500px;
+left: 1000px;
+align-content: right;
+margin-top: 30px;
+}
+
+.card-title{
+font-family: 'Courier New', Courier, monospace;
+font-weight: bold;
+text-align: center;
+}
+
+.container-fluid{
+background-color: #B0C4DE;
+}
+
+.card-footer{
+background-color: #B0C4DE;
+}
+
+.card-body{
+background-color: #F8F8FF;
+}
+
