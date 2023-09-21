@@ -66,3 +66,11 @@ background-color: #B0C4DE;
 background-color: #F8F8FF;
 }
 
+.container{
+
+position: absolute;
+align-content: right;
+margin-left: 75%;
+
+}
+
